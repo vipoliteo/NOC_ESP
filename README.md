@@ -2,10 +2,10 @@
 Traducción al español del libro The Nature of Code de Daniel Shiffman.
 
 Integrantes:
-[@Vicente Politeo](https://github.com/vipoliteo)
-[@Paloma Sastre](https://github.com/palosastre)
-[@Pascuala Sylleros](https://github.com/Paxita)
-[@Nicolas Troncoso](https://github.com/nicotron)
+[@Vicente Politeo](https://github.com/vipoliteo)  
+[@Paloma Sastre](https://github.com/palosastre)  
+[@Pascuala Sylleros](https://github.com/Paxita)  
+[@Nicolas Troncoso](https://github.com/nicotron)  
 
 Guía:
 [@Sergio Majluf](https://github.com/sergiomajluf)
