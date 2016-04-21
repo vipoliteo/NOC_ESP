@@ -1,7 +1,7 @@
 # NOC_ESP
 Traducción al español del libro The Nature of Code de Daniel Shiffman.
 
-Integrantes:
+Integrantes:  
 [@Vicente Politeo](https://github.com/vipoliteo)  
 [@Paloma Sastre](https://github.com/palosastre)  
 [@Pascuala Sylleros](https://github.com/Paxita)  
